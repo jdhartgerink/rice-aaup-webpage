@@ -178,6 +178,7 @@ blockquote {
   color: var(--accent);
 }
 .flyer { max-width: 500px; width: 100%; height: auto; border-radius: 6px; margin: 12px 0; }
+.flyer-thumb { height: 1in; width: auto; border-radius: 4px; margin: 4px 0 0; display: inline-block; border: 1px solid var(--border); }
 
 /* ---------- Leadership ---------- */
 .leadership {
